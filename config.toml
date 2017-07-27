@@ -1,0 +1,10 @@
+baseURL = "https://listepilz.at/"
+languageCode = "en-us"
+title = "Liste Pilz. Ja es geht!"
+disableKinds = ["taxonomy","taxonomyTerm"]
+
+[[menu.footer]]
+    name = "Impressum"
+    weight = -110
+    identifier = "impressum"
+    url = "/impressum/"

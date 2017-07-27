@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liste Pilz. Ja es geht!</title>
+    <link>https://listepilz.at/</link>
+    <description>Recent content on Liste Pilz. Ja es geht!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://listepilz.at/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://listepilz.at/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://listepilz.at/impressum/</guid>
+      <description>Impressum &amp;amp; Offenlegung gem. §§ 24, 25 Mediengesetz sowie Anbieteridentifizierung gem. § 5 / 1 ECG:
+Medieninhaber, Herausgeber, Hersteller und Eigentümer (zu 100%):
+Liste Peter Pilz
+Dr. Peter Pilz
+c/o RA Univ.-Prof. Dr. Alfred J. Noll
+Schellinggasse 3 / 3,
+1010 Wien
+Grundlegende Richtung: Diese Website ist ein Informationsorgan der Liste Peter Pilz.</description>
+    </item>
+    
+  </channel>
+</rss>
