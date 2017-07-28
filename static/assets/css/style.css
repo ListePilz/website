@@ -9,6 +9,10 @@ body h2 {
   font-size: 20px;
 }
 
+.row{
+  margin-top: 1em;
+}
+
 #social-icons i {
   font-size:36px;
   color: black;
