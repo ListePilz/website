@@ -16,3 +16,5 @@ deploy-wip:
 
 deploy-secret: build
 	aws s3 sync public $(BUCKET)/strenggeheim --delete
+
+update: deploy deploy-wip deploy-secret
