@@ -2,6 +2,7 @@ baseURL = "https://listepilz.at/"
 languageCode = "en-us"
 title = "Liste Pilz. Ja es geht!"
 disableKinds = ["taxonomy","taxonomyTerm"]
+GoogleAnalytics = "UA-103577542-1"
 
 [[menu.footer]]
     name = "Impressum"
