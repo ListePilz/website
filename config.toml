@@ -7,4 +7,4 @@ disableKinds = ["taxonomy","taxonomyTerm"]
     name = "Impressum"
     weight = -110
     identifier = "impressum"
-    url = "/impressum/"
+    url = "/impressum/index.html"
