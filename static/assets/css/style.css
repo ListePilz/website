@@ -26,3 +26,11 @@ body h2 {
 .mailchimp-form {
   border: 2px solid #e8e8e8;
 }
+
+.kontodaten {
+	margin-top: 2em;
+}
+
+.kontodaten p{
+	margin-bottom: 0;
+}
