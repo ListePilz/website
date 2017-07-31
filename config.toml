@@ -1,5 +1,5 @@
 baseURL = "https://listepilz.at/"
-languageCode = "en-us"
+languageCode = "de_DE"
 title = "Liste Pilz. Ja es geht!"
 disableKinds = ["taxonomy","taxonomyTerm"]
 GoogleAnalytics = "UA-103577542-1"
