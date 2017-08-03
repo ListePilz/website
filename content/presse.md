@@ -4,7 +4,7 @@ title = "Presse"
 
 ## Kontakt
 
-Für Presse Anfragen bitte eine Email an [presse@listepilz.at](mailto:presse@listepilz.at)
+Für Presse Anfragen bitte ein Email an [presse@listepilz.at](mailto:presse@listepilz.at)
 
 
 ## Pressepaket
