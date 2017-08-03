@@ -9,3 +9,9 @@ GoogleAnalytics = "UA-103577542-1"
     weight = -110
     identifier = "impressum"
     url = "/impressum/index.html"
+
+[[menu.footer]]
+    name = "Presse"
+    weight = -100
+    identifier = "presse"
+    url = "/presse/index.html"
