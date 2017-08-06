@@ -15,12 +15,16 @@ body h2 {
   margin-top: 1em;
 }
 
-#social-icons i {
-  font-size:36px;
-  color: black;
+.navbar {
+  font-size:24px;
 }
 
-#social-icons i:hover{
+.social-icons a {
+  color: black;
+  text-decoration: none;
+}
+
+.social-icons a:hover{
   color: grey;
 }
 
@@ -49,4 +53,18 @@ body h2 {
 .footer .row{
   border-top: 1px solid #e8e8e8;
   margin-top: 1em;
+}
+
+## Liste KandidatInnen
+
+.people h2{
+
+}
+
+.people a {
+  color: #212529;
+}
+
+.people h3{
+  font-size: 1em;
 }

@@ -1,14 +1,11 @@
 {{ partial "head" . }}
-<div class="container p-a-0">
-  <div class="row m-l-0 m-r-0">
-    <div class="col-xs-12 col-md-9 post-container">
-      {{ .Render "single.hat" }}
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-9">
+      {{ .Render "single.head" }}
       {{ .Render "single.content" }}
-      {{ .Render "single.boot" }}
+      {{ .Render "single.footer" }}
     </div>
-      <div class="col-xs-12 col-md-3">
-        {{ partial "content/sidebar" .}}
-      </div>
   </div>
 </div>
 {{ partial "foot" . }}

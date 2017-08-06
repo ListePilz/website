@@ -1,0 +1,48 @@
+{{ partial "head" . }}
+<div class="container liste">
+  <div class="row">
+    <div class="col-xs-12 col-md-4">
+      <img src="/assets/images/portraits/large/{{ .Params.nachname }}.jpg">
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+          <h3>Themen</h3>
+          <ul>
+            {{ range .Params.themen }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-12">
+          <h3>Ziele</h3>
+          <ul>
+            {{ range .Params.ziele }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-8">
+      <h2>{{ title .Params.vorname }} {{ title .Params.nachname }}</h2>
+      <div class="social-icons">
+        {{ if .Params.facebook }}
+        <a href="https://www.facebook.com/{{ .Params.facebook }}" target="_blank">
+          <i class="fa fa-facebook-official" alt="Facebook Link"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.twitter }}
+        <a href="https://twitter.com/{{.Params.twitter}}" target="_blank">
+          <i class="fa fa-twitter" alt="Twitter Link"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.website }}
+        <a href="{{ .Params.website }}" target="_blank">
+          <i class="fa fa-external-link" alt="Website Link"></i>
+        </a>
+        {{ end }}
+      </div>
+      <p>{{ .Content }}</p>
+    </div>
+  </div>
+</div>
+{{ partial "foot" . }}
