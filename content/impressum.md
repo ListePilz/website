@@ -17,3 +17,7 @@ Schellinggasse 3 / 3,
 1010 Wien
 
 Grundlegende Richtung: Diese Website ist ein Informationsorgan der Liste Peter Pilz.
+
+## Parteidokumente
+
+[Satzung der Liste Pilz](/assets/documents/liste-pilz-satzung.pdf)
