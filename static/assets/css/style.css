@@ -68,3 +68,8 @@ body h2 {
 .people h3{
   font-size: 1em;
 }
+
+.lastname {
+  text-transform: uppercase;
+  font-weight: bolder;
+}

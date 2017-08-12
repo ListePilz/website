@@ -1,6 +1,6 @@
 {{ partial "head" . }}
 <div class="container liste">
-  <h1>{{ title .Params.vorname }} {{ title .Params.nachname }}</h1>
+  <h1>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h1>
   <div class="row">
     <div class="col-xs-12 col-md-4">
       <img src="/assets/images/portraits/large/{{ .Params.nachname }}.jpg">
@@ -13,18 +13,10 @@
             {{ end }}
           </ul>
         </div>
-        <div class="col-xs-12 col-md-12">
-          <h3>Ziele</h3>
-          <ul>
-            {{ range .Params.ziele }}
-            <li>{{ . }}</li>
-            {{ end }}
-          </ul>
-        </div>
       </div>
     </div>
     <div class="col-xs-12 col-md-8">
-      <h2>Warum Liste Pilz?</h2>
+      <h2>Über {{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
       <div class="social-icons">
         {{ if .Params.facebook }}
         <a href="https://www.facebook.com/{{ .Params.facebook }}" target="_blank">
@@ -43,6 +35,12 @@
         {{ end }}
       </div>
       <p>{{ .Content }}</p>
+      <h2>Ziele</h2>
+      <ul>
+        {{ range .Params.ziele }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
     </div>
   </div>
 </div>
