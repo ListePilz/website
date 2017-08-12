@@ -14,6 +14,7 @@ deploy: build
 
 dev-deploy: build
 	aws s3 sync public/ $(DEV_BUCKET) --delete --acl public-read
+	@echo http://$(DEV_BUCKET).s3-website.eu-central-1.amazonaws.com/
 
 deploy-wip:
 	aws s3 cp wip/index.html $(BUCKET)
