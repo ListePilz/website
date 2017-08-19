@@ -13,10 +13,9 @@
           <div class="col-xs-12 col-md-7">
             <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
             <p><strong>Liste:</strong> {{ title (delimit .Params.listen ",") }}</p>
-            <h3>Themen</h3>
             <ul>
               {{ range .Params.themen }}
-              <li>{{ . }}</li>
+              <li>{{ title . }}</li>
               {{ end }}
             </ul>
           </div>

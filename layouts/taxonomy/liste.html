@@ -14,7 +14,7 @@
             <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
             <ul class="themen">
               {{ range .Params.themen }}
-              <li>{{ . }}</li>
+              <li>{{ title . }}</li>
               {{ end }}
             </ul>
           </div>
