@@ -8,6 +8,7 @@ ziele:
   - test
   - test2
   - test3
+listen: [bund]
 ---
 
 Geboren 1954 im Südburgenland, Studium der Informatik an der TU Wien, in den 70er Jahren aktiv in der Studenten- und Anti AKW Bewegung, daneben hoffnungsvoller, aber letztendlich erfolgloser Fußballer. Danach mehrere langjährige wissenschaftliche Auslandsaufenthalte, jetzt Professor für e-commerce an der Fakultät für Informatik TU Wien, und gleichzeitig Dekan der Fakultät.

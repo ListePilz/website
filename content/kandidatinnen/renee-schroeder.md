@@ -7,6 +7,7 @@ themen:
 ziele:
   - Verdopplung der FWF Mittel von 200 auf 400 Mio €
   - Hochschulquote auf 2 % des BIP erhöhen
+listen: [bund]
 ---
 
 Geboren 1953 in João Monlevade, Brasilien

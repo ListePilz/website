@@ -3,15 +3,16 @@
   <h1>KandidatInnen</h1>
   <p>alphabetisch sortiert</p>
   <div class="row">
-    {{ range .Data.Pages }}
+    {{ range (.Data.Pages.ByParam "nachname")}}
     <div class="col-xs-12 col-md-6 mb-3">
-      <a href="{{ .Params.nachname }}">
+      <a href="{{ .Permalink }}">
         <div class="row">
           <div class="col-xs-12 col-md-4">
             <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
           </div>
           <div class="col-xs-12 col-md-7">
             <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+            <p><strong>Liste:</strong> {{ title (delimit .Params.listen ",") }}</p>
             <h3>Themen</h3>
             <ul>
               {{ range .Params.themen }}

@@ -1,0 +1,28 @@
+{{ partial "head" . }}
+<div class="container people">
+  <h1>KandidatInnen</h1>
+  <p>alphabetisch sortiert</p>
+  <div class="row">
+    {{ range (.Data.Pages.ByParam "nachname")}}
+    <div class="col-xs-12 col-md-6 mb-3">
+      <a href="{{ .Permalink }}">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
+          </div>
+          <div class="col-xs-12 col-md-8 pl-0">
+            <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+            <h3>Themen</h3>
+            <ul class="themen">
+              {{ range .Params.themen }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "foot" . }}

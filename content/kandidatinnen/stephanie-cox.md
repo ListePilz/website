@@ -8,6 +8,7 @@ ziele:
   - test
   - test2
   - test3
+listen: [bund]
 ---
 
 1989 in Sydney, Australien, geboren, lebt seit ihrer Kindheit in Österreich

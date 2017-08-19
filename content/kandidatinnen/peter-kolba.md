@@ -7,6 +7,7 @@ ziele:
   - test
   - test2
   - test3
+listen: [bund]
 ---
 
 Geb. 1959 in Wien, Jurist
