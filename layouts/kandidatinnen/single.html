@@ -9,13 +9,13 @@
           <h3>Themen</h3>
           <ul class="themen">
             {{ range .Params.themen }}
-            <li>{{ . }}</li>
+            <li>{{ title . }}</li>
             {{ end }}
           </ul>
         </div>
         <div class="col-xs-12 col-md-12">
           <h3>Listen</h3>
-          <ul>
+          <ul class="listen">
             {{ range .Params.listen }}
             <li>{{ title . }}</li>
             {{ end }}

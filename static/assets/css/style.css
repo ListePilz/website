@@ -11,6 +11,13 @@ body h2 {
   /*margin: 0;*/
 }
 
+body h3 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 2em;
+  /*margin: 0;*/
+}
+
 .row{
   margin-top: 1em;
 }
@@ -74,6 +81,6 @@ body h2 {
   font-weight: bolder;
 }
 
-.themen{
+.themen, .listen{
   padding-left:1em;
 }

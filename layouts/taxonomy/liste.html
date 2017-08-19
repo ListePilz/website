@@ -12,7 +12,6 @@
           </div>
           <div class="col-xs-12 col-md-8 pl-0">
             <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
-            <h3>Themen</h3>
             <ul class="themen">
               {{ range .Params.themen }}
               <li>{{ . }}</li>
