@@ -8,7 +8,7 @@ themen:
 ziele:
   - Zurückdrängen des Kartellunwesens zur Senkung der Endkundenpreise bei gleichzeitiger Steigerung der Qualität.
   - „New Deal“ im Steuersystem zur Stärkung der Realwirtschaft, Entlastung des Faktors Arbeit und Sicherstellung eines gerechten Beitrags aus Millionenerbschaften und –vermögen.
-listen: [oberösterreich]
+listen: [oberoesterreich]
 ---
 
 Mein Name ist Karl Kammerhofer. Ich bin Vater von vier Kindern, Jahrgang 1941, dzt. Gemeinderat und wohnhaft in Gmunden, Gründer der „GRÜNE ERDE“ in Oberösterreich, Baubiologe (FH Krems), Bau-Marktforscher und Elektroingenieur (HTL Linz), Betriebswirt (Uni Linz) und gelernter Autoelektriker (Gesellenprüfung: Berufsschule Mattighofen)

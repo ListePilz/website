@@ -5,7 +5,7 @@
   <div class="row">
     {{ range (.Data.Pages.ByParam "nachname")}}
     <div class="col-xs-12 col-md-6 mb-3">
-      <a href="{{ .Permalink }}">
+      <a href="/kandidatinnen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
         <div class="row">
           <div class="col-xs-12 col-md-4">
             <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">

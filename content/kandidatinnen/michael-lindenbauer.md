@@ -8,7 +8,7 @@ ziele:
   - Staatliche Förderung für parteiunabhängige BürgerInnenlisten (Gemeindeebene) um einen fairen Wettbewerb mit lokalen Apparaten der großen Parteien zu ermöglichen. Demokratie lebt von Beteiligung – diese muss möglich werden.
   - Förderung von leistbarem Wohnen mit Schwerpunkt auf Junges Wohnen. Vor allem auch in Tourismusregionen dürfen junge Menschen nicht Verlassen ihrer Heimatgemeinden gezwungen werden, nur weil sie sich das Wohnen nicht leisten können.
   - Transparenz und Nachvollziehbarkeit politischer Entscheidungen fördern – Parlamentarische Ausschüsse via Live-Stream im Internet übertragen.
-listen: [oberösterreich]
+listen: [oberoesterreich]
 ---
 
 Mein Name ist Michael Lindenbauer, ich bin 28 Jahre alt und komme aus Ebensee am Traunsee. Derzeit studiere ich an der Universität Wien Lehramt Geschichte, Geographie und Wirtschaftskunde sowie Bildungswissenschaften. Nebenbei arbeite ich im Gastgewerbe.

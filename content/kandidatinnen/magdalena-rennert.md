@@ -4,7 +4,7 @@ nachname: rennert
 themen:
   - Moderne Staats- und Regierungsführung
   - Österreichische Interessen in der EU und international
-listen: [oberösterreich]
+listen: [oberoesterreich]
 ---
 
 Ich heiße Magdalena Rennert bin 29 Jahre und in Ried im Innkreis aufgewachsen. Bereits in meiner Jugend engagierte ich mich in der oberösterreichischen Landesschulpolitik. Nach der Matura ging ich in die Niederlande um European Public Administration (Politikwissenschaft, EU-Recht, Wirtschaft und Soziologie) mit zusätzlichen Schwerpunkten in Kriminalistik und Philosophie zu studieren und habe mich nebenbei auch für die Vertretung der Studierendeninteressen eingesetzt.
