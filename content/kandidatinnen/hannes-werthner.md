@@ -3,7 +3,8 @@ vorname: hannes
 nachname: werthner
 themen:
   - Digitale Transformation
-  - Wissenschaft und Universitäten
+  - Wissenschaft
+  - Universitäten
 ziele:
   - Gründung eines internationalen, interdisziplinären Zentrums zur Digitalen Transformation (Austrian Center for Digital Transformation)
   - 50 zusätzliche Professuren in Informatik und ihren Schnittstellen für Universitäten und FHs
@@ -20,6 +21,8 @@ Im Jahr 2000 gründete er das e-commerce competence center **ec3**, 2011 das Inf
 
 ## Warum Liste Pilz?
 
-* Wir stehen vor wirklich großen gesellschaftlichen Herausforderungen, hervorgerufen durch technische (vor allem in der Informatik) Entwicklungen; man kann dies beobachten und kommentieren, oder sich einmischen.
-* Wesentliche Herausforderung der digitalen Transformation; diese kann und soll man nicht aufhalten, man muss jedoch eingreifen und aktiv, positiv gestalten.
-*  Damit ergibt sich die Bedeutung der Wissenschaft und Universitäten für die Entwicklung der Gesellschaft. Dies muss man vermehrt zum Gegenstand der politischen Diskussion machen.
+Erstens, stehen wir vor wirklich großen gesellschaftlichen Herausforderungen, hervorgerufen durch technische (vor allem in der Informatik) Entwicklungen. Man kann dies beobachten und kommentieren, oder sich einmischen. Ich will und werde mich einmischen.
+
+Zweitens, die wesentliche Herausforderung der digitalen Transformation. Diese kann und soll man nicht aufhalten, man muss jedoch eingreifen und aktiv, positiv gestalten.
+
+Drittens, damit ergibt sich die Bedeutung der Wissenschaft und Universitäten für die Entwicklung der Gesellschaft. Diese möchte und werde ich mit der Liste Pilz vermehrt zum Gegenstand der politischen Diskussion machen.

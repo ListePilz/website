@@ -12,13 +12,12 @@ ziele:
 listen: [bund]
 ---
 
-Dr. Peter Kolba (58), geboren in Wien, ist Jurist und war 26 Jahre Leiter des Vereines für Konsumenteninformation (VKI). Nun ist er als Autor im Verbraucherschutz tätig („Davids gegen Goliath – Der VW-Skandal und die Möglichkeit von Sammelklagen“ – www.davids-gegen-goliath.at ). Er ist Schmerzpatient (Polyneuropathie) und hat daher Erfahrungen mit Cannabis-Medizin (www.himko.at ).
+Dr. Peter Kolba (58), geboren in Wien, ist Jurist und war 26 Jahre Leiter des Vereines für Konsumenteninformation (VKI). Nun ist er als Autor im Verbraucherschutz tätig ([„Davids gegen Goliath – Der VW-Skandal und die Möglichkeit von Sammelklagen“](www.davids-gegen-goliath.at) ). Er ist Schmerzpatient (Polyneuropathie) und hat daher Erfahrungen mit [Cannabis-Medizin](www.himko.at).
 
 ## Warum Liste Pilz?
 
-Ich warte seit 2007 darauf, dass die Bundesregierung eine effektive Sammelklage bei Massenschäden einführt. Seit 10 Jahren wird das aber von Wirtschaftskammer und ÖVP blockiert. Ich habe das Ziel, im Parlament für einen effektiven Verbraucherschutz einzutreten. Konkret steht an:
+Ich warte seit 2007 darauf, dass die Bundesregierung eine effektive Sammelklage bei Massenschäden einführt. Seit 10 Jahren wird das aber von Wirtschaftskammer und ÖVP blockiert. Ich habe das Ziel, im Parlament für einen effektiven Verbraucherschutz einzutreten. Konkret möchte ich mich als Abgeordneter in folgenden Bereichen persönlich einsetzen: Erstens, Verbraucherschutz. Dabei ist mir eine effiziente Durchsetzung von Verbraucherrechten wichtig. Dazu gehören folgende konkrete Forderungen:
 
-### Verbraucherschutz: „Effiziente Durchsetzung von Verbraucherrechten“ 
 * Einführung einer effektiven Sammelklage und eines Sammelvergleiches bei Massenschäden
 * Insolvenzabsicherung auch für Nur-Flug-Buchungen
 * Reformen des Wohnrechts – Einschränkung der Befristungen
@@ -31,8 +30,8 @@ Ich warte seit 2007 darauf, dass die Bundesregierung eine effektive Sammelklage 
 * Einrichtung eines Lehrstuhles für Verbraucherrecht an einer  österreichischen Universität
 * „Verbraucherschutz X-large“ auch für Einzelunternehmer und Klein- und Mittelbetriebe 
 
+Zweitens, will ich mich im Bereich Justiz für eine effiziente öffentliche Gerichtsbarkeit statt Ausweichen auf Schiedsgerichte in Hinterzimmern einsetzen. Dazu gehören folgende konkrete Forderungen:
 
-### Justiz: „Effiziente öffentliche Gerichtsbarkeit statt Ausweichen auf Schiedsgerichte in Hinterzimmern“ 
 * Senkung der Gerichtsgebühren
 * Grenzen für Anwaltskosten
 * Reform der Verfahrenshilfe
@@ -42,6 +41,4 @@ Ich warte seit 2007 darauf, dass die Bundesregierung eine effektive Sammelklage 
 * „Sprungrevision“ bei reinen Rechtsfragen (1. Instanz – OGH)
 * Reform des Verjährungsrechtes
 
-### Liberalisierung von Cannabis in der Medizin
-
-Ich leide seit 2012 an einer Schmerzerkrankung (Polyneuropathie): Ich habe gelernt, dass Cannabis bei neuropathischen Schmerzen die Schmerzen lindert und Muskeln entspannt. Derzeit bekommt man Cannabis nur auf „Suchtgiftrezept“ in Form von Tropfen („Dronabinol“). Dieses Medikament ist aber sauteuer und – ohne Krankenkasse – unleistbar. Daher trete ich für eine Liberalisierung von Cannabis in der Medizin ein.
+Mein dritter Arbeitsschwerpunkt hat einen persönlichen Grund. Ich leide seit 2012 an einer Schmerzerkrankung (Polyneuropathie): Ich habe gelernt, dass Cannabis bei neuropathischen Schmerzen die Schmerzen lindert und Muskeln entspannt. Derzeit bekommt man Cannabis nur auf „Suchtgiftrezept“ in Form von Tropfen („Dronabinol“). Dieses Medikament ist aber sauteuer und – ohne Krankenkasse – unleistbar. Daher trete ich für eine Liberalisierung von Cannabis in der Medizin ein.

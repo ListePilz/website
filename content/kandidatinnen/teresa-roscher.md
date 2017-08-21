@@ -17,4 +17,6 @@ Ursprünglich aus dem Bereich Logistik- und Transportmanagement, orientierte sic
 
 ## Warum Liste Pilz?
 
-Die Lebenserwartung und damit auch der Pflegebedarf steigen. Personal- und Finanzmittelmangel führen zu Missständen für Pflegekräfte und jene Menschen die Betreuung bedürfen. Das muss ein Ende haben. Der letzte große Lebensabschnitt eines Menschen hat eben so viel Mühe, Aufmerksamkeit und Empathie verdient, wie der erste. Pflege und Betreuung müssen in den Fokus gestellt werden.
+Die Lebenserwartung und damit auch der Pflegebedarf steigen. Ich stelle in meiner täglichen Arbeit fest, dass Personal- und Finanzmittelmangel zu Missständen für Pflegekräfte und jene Menschen, die Betreuung bedürfen, führen. Das muss ein Ende haben.
+
+Auch der letzte große Lebensabschnitt eines Menschen hat eben so viel Mühe, Aufmerksamkeit und Empathie verdient, wie der erste. Ich bin der festen Überzeugung und werde mich daher aktiv dafür einsetzen, dass Pflege und Betreuung in den Fokus gestellt werden müssen.
