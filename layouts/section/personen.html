@@ -1,0 +1,29 @@
+{{ partial "head" . }}
+<div class="container people">
+  <h1>KandidatInnen</h1>
+  <p>Wir Kandidatinnen und Kandidaten sind die Programme unserer Liste. Für alleinerziehende Frauen und gegen Kinderarmut, für Konsumentenschutz und Tierschutz, für Startups und gegen Konzernprivilegien, für Informationsfreiheit und gegen Überwachungsstaat, für eine faire Umverteilung von Arbeit, Einkommen und Lebenschancen, endlich wieder in die richtige Richtung, von oben nach unten.</p>
+      <p>Und für unsere Heimat Europa – unsere Grundrechte von Meinungsfreiheit bis Pressefreiheit, die Gleichberechtigung von Frauen und Männern, unsere unabhängige Justiz, die Trennung von Religion und Staat, unsere Demokratie und vor allem: unser Recht, so zu leben wie wir wollen.</p>
+  <div class="row">
+    {{ range (.Data.Pages.ByParam "nachname")}}
+    <div class="col-xs-12 col-md-6 mb-3">
+      <a href="{{ .Permalink }}">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
+          </div>
+          <div class="col-xs-12 col-md-7">
+            <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+            <p><strong>Liste:</strong> {{ title (delimit .Params.listen ",") }}</p>
+            <ul>
+              {{ range .Params.themen }}
+              <li>{{ title . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "foot" . }}

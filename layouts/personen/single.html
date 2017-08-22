@@ -1,0 +1,55 @@
+{{ partial "head" . }}
+<div class="container liste">
+  <h1>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h1>
+  <div class="row">
+    <div class="col-xs-12 col-md-4">
+      <img src="/assets/images/portraits/large/{{ .Params.nachname }}.jpg">
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+          <h3>Themen</h3>
+          <ul class="themen">
+            {{ range .Params.themen }}
+            <li>{{ title . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-12">
+          <h3>Listen</h3>
+          <ul class="listen">
+            {{ range .Params.listen }}
+            <li>{{ title . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-8">
+      <h2>Über {{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+      <div class="social-icons">
+        {{ if .Params.facebook }}
+        <a href="https://www.facebook.com/{{ .Params.facebook }}" target="_blank">
+          <i class="fa fa-facebook-official" alt="Facebook Link"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.twitter }}
+        <a href="https://twitter.com/{{.Params.twitter}}" target="_blank">
+          <i class="fa fa-twitter" alt="Twitter Link"></i>
+        </a>
+        {{ end }}
+        {{ if .Params.website }}
+        <a href="{{ .Params.website }}" target="_blank">
+          <i class="fa fa-external-link" alt="Website Link"></i>
+        </a>
+        {{ end }}
+      </div>
+      <p>{{ .Content }}</p>
+      <h2>Ziele</h2>
+      <ul>
+        {{ range .Params.ziele }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+{{ partial "foot" . }}

@@ -1,11 +1,11 @@
 {{ partial "head" . }}
 <div class="container people">
-  <h1>KandidatInnen</h1>
-  <p>alphabetisch sortiert</p>
+  <h1>Kandidatinnen und Kandidaten</h1>
+  <p>Wir Kandidatinnen und Kandidaten sind die Programme unserer Liste. Für alleinerziehende Frauen und gegen Kinderarmut, für Konsumentenschutz und Tierschutz, für Startups und gegen Konzernprivilegien, für Informationsfreiheit und gegen Überwachungsstaat, für eine faire Umverteilung von Arbeit, Einkommen und Lebenschancen, endlich wieder in die richtige Richtung, von oben nach unten.</p>
   <div class="row">
     {{ range (.Data.Pages.ByParam "nachname")}}
     <div class="col-xs-12 col-md-6 mb-3">
-      <a href="/kandidatinnen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
+      <a href="/personen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
         <div class="row">
           <div class="col-xs-12 col-md-4">
             <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">

@@ -1,7 +1,6 @@
 {{ partial "head" . }}
 <div class="container listen">
   <h1>Landeslisten</h1>
-  <p>alphabetisch sortiert</p>
   <div class="row">
     {{ range $key,$value := .Data.Terms }}
       {{ if not (eq $key "bund") }}
