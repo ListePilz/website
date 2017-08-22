@@ -15,7 +15,7 @@ website: 'http://www.mariastern.at'
 
 1972 in Berlin geboren, lebt seit ihrer Kindheit in Österreich, verbrachte drei Jahre in den Niederlanden und viel Zeit in Serbien.
 
-Maria Stern ist Lehrerin, Initiatorin und Obfrau [des Vereins „Forum Kindesunterhalt“](www.forumkindesunterhalt.at), ehemalige Sprecherin des Frauenvolksbegehrens 2.0, Singersong-Writerin (FM4 Publikumspreis) und Krimiautorin.
+Maria Stern ist Lehrerin, Initiatorin und Obfrau [des Vereins „Forum Kindesunterhalt“](http://www.forumkindesunterhalt.at), ehemalige Sprecherin des Frauenvolksbegehrens 2.0, Singersong-Writerin (FM4 Publikumspreis) und Krimiautorin.
 
 ## Warum Liste Pilz?
 
