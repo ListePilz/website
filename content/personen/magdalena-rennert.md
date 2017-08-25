@@ -3,7 +3,7 @@ vorname: magdalena
 nachname: rennert
 themen:
   - Moderne Staats- und Regierungsführung
-  - Österreichische Interessen in der EU und international
+  - Österreichische Interessen in der EU und International
 listen: [oberoesterreich]
 ---
 

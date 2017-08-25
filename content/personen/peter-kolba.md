@@ -41,4 +41,8 @@ Zweitens, will ich mich im Bereich Justiz für eine effiziente öffentliche Geri
 * „Sprungrevision“ bei reinen Rechtsfragen (1. Instanz – OGH)
 * Reform des Verjährungsrechtes
 
-Mein dritter Arbeitsschwerpunkt hat einen persönlichen Grund. Ich leide seit 2012 an einer Schmerzerkrankung (Polyneuropathie): Ich habe gelernt, dass Cannabis bei neuropathischen Schmerzen die Schmerzen lindert und Muskeln entspannt. Derzeit bekommt man Cannabis nur auf „Suchtgiftrezept“ in Form von Tropfen („Dronabinol“). Dieses Medikament ist aber sauteuer und – ohne Krankenkasse – unleistbar. Daher trete ich für eine Liberalisierung von Cannabis in der Medizin ein.
+Mein dritter Arbeitsschwerpunkt ist die Linderung von Schmerzen für schwer Kranke, ein Thema mit dem fast jede Familie konfrontiert ist.
+
+Ich leide seit 2012 an einer Schmerzerkrankung (Polyneuropathie). Ich habe gelernt, dass Cannabis bei neuropathischen Schmerzen die Schmerzen lindert und Muskeln entspannt. Derzeit bekommt man Cannabis nur auf „Suchtgiftrezept" in Form von Tropfen („Dronabinol"). Dieses Medikament ist aber sauteuer und – ohne Krankenkasse – unleistbar. Andererseits werden Schmerzen oft mit Unmengen an schweren Medikamenten behandelt wie viele von uns bei uns selbst, unseren Eltern oder Großeltern miterleben müssen.
+
+Daher trete ich für eine Liberalisierung von Cannabis in der Medizin ein um Menschen (und ihren Familien) mit Polyneuropathie, Parkinson und anderen schmerzhaften und belastenden Krankheiten zu helfen und ihnen eine schönere Zeit in ihrem Leben und mit ihren Familien zu ermöglichen.

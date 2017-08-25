@@ -2,7 +2,7 @@
 vorname: karl
 nachname: kammerhofer
 themen:
-  - KonsumentInnenschutz
+  - Verbraucherschutz
   - Industrie 4.0
   - Energieeffizienz
 ziele:
