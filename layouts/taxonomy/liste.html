@@ -33,5 +33,20 @@
     </div>
     {{ end }}
   </div>
+  {{ if (eq .Data.Term "bund") }}
+  <div class="row">
+    <div class="col-xs-12 col-md-6 mb-3">
+      <h2>Bundesländer</h2>
+      <a href="/listen/oberoesterreich">
+        <h3>Oberösterreich</h3>
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/groups/large/oberoesterreich.jpg">
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  {{ end }}
 </div>
 {{ partial "foot" . }}
