@@ -8,7 +8,7 @@ ziele:
   - Personal- & Finanzmangel bekämpfen
   - Pflege und Betreuung betreffen auch das Gesundheitssystem
   - Palliativ Care als Grundbestandteil der PA-Ausbildung
-listen: [bund]
+listen: [spitze]
 ---
 
 ist Pflegeassistentin, Autorin und werdende Mutter.

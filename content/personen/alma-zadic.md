@@ -9,7 +9,7 @@ ziele:
   - Sprachförderung insbesondere für Kinder und Schüler mit zusätzlichen 2000 speziell ausgebildeten Lehrkräften umfassend ausgebauen
   - gezielte Aufnahme von Polizeischülern- und -schülerinnen mit Einwanderungshintergrund
   - in unserer Liste enge Zusammenarbeit in den Bereichen „Integration“ und „Abwehr von politischem und religiösem Extremismus“
-listen: [bund]
+listen: [spitze]
 ---
 
 Alma Zadic hat Rechtswissenschaften an der Universität Wien sowie der Columbia University in New York studiert. Als Rechtsanwältin ist sie in Österreich und New York zugelassen und hat in den letzten sechs Jahren in einer internationalen Wirtschaftskanzlei im Bereich der Konfliktlösung gearbeitet. Davor war sie als junior researcher bei der Internationalen Organisation für Migration tätig.

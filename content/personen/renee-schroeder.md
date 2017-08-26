@@ -10,7 +10,7 @@ ziele:
   - dass der FWF „Overheadkosten“ in der Höhe von durchschnittlich 25 % an die Universitäten zahlen kann, damit diese sich Forschung auch leisten können.
   - dass die Hochschulquote schnell auf 2 % des BIP erhöht wird;
   - dass sämtliche Kompetenzen von Wissenschaft und Forschung in einem eigenständigen Wissenschaftsministerium zusammengefasst werden.
-listen: [bund]
+listen: [spitze]
 ---
 
 Geboren 1953 in Joao Monlevade, Brasilien.

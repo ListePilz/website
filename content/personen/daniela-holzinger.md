@@ -12,7 +12,7 @@ ziele:
 facebook: daniela.holzinger.3
 website: http://www.daniela-holzinger.at/
 twitter: HolzingerDan
-listen: [bund, oberoesterreich]
+listen: [spitze, oberoesterreich]
 ---
 
 Mein Name ist Daniela Holzinger-Vogtenhuber. Ich bin 29 Jahre alt, Politikwissenschafterin und seit 2013 Abgeordnete zum Nationalrat. Politisch engagiere ich mich im Gemeinderat meiner Heimatgemeinde Gampern wo ich mich besonders für BürgerInnenbeteiligung und Transparenz einsetze.
