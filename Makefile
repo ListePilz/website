@@ -10,7 +10,7 @@ clean:
 	rm -fr public
 
 deploy: build
-	cd public && aws s3 sync ./ $(BUCKET) --delete
+	cd public && aws s3 sync ./ $(BUCKET) --delete --acl public-read
 
 dev-deploy: build
 	aws s3 sync public/ $(DEV_BUCKET) --delete --acl public-read
