@@ -1,0 +1,38 @@
+{{ partial "head" . }}
+<div class="container people">
+  <h1>JA, ES GEHT. MIT UNS.</h1>
+  <p>Unser Land ist eines der schönsten, reichsten und sichersten der Welt. Es stimmt, wir haben Probleme: Jugendarbeitslosigkeit, überlastete Schulen und überfüllte Universitäten, Kinder, die in Armut aufwachsen, Pflegenotstand, Integrationsversagen und Korruption.</p>
+  <p>
+  Aber wir haben auch einen Vorteil: Wir haben alle Voraussetzungen, unsere Probleme zu lösen. Uns fehlt nur eines: eine Politik, die Österreich als Chance sieht. Und die bereit ist, unser Österreich auch zu verteidigen. Unsere offene Gesellschaft, unsere soziale Sicherheit, unsere Freiheit. Gegen alle seine Feinde, von der neoliberalen Ellbogengesellschaft bis zum politischen Islam.</p>
+  <p>Das ist unser Programm für unsere Heimat Österreich. Aber warum muss es dazu eine neue Liste geben?</p>
+  <p>„Alle streiten. Und nichts geht weiter.“ - „Es reicht. Die Parteien denken nur an sich. Und nicht an uns.“ Und: „Es gibt für mich nichts zu wählen. Ich geh nicht mehr hin.“</p>
+  <p>Die Leute haben recht. Sie wollen etwas Neues, weil das Alte versagt hat. Und sie wollen, dass endlich wieder ihre Interessen vertreten werden. Daher treten wir an.</p>
+  <p>Wir sind keine Partei wie die anderen. Bei uns wird es keinen Klubzwang und kein Parteiprogramm geben. Unsere Kandidaten sind unsere Programme. Hier stellen wir sie vor.</p>
+  <p>Wir versprechen nur das, was wir halten können: konkrete Reformen, die Österreich in den nächsten fünf Jahren besser machen sollen.</p>
+  <p>Dazu werden wir Allianzen bilden, mit allen, die dazu bereit sind, egal, woher sie kommen.</p>
+  <p>Wir wissen, dass es Zeit für eine neue Kraft ist. Und wir wissen noch etwas:</p>
+  <p>Ja, das geht.</p>
+  <div class="row">
+    {{ range (.Data.Pages.ByParam "nachname")}}
+    <div class="col-xs-12 col-md-6 mb-3">
+      <a href="{{ .Permalink }}">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
+          </div>
+          <div class="col-xs-12 col-md-7">
+            <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+            <p><strong>Liste:</strong> {{ title (delimit .Params.listen ",") }}</p>
+            <ul>
+              {{ range .Params.themen }}
+              <li>{{ title . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "foot" . }}

@@ -1,0 +1,42 @@
+{{ partial "head" . }}
+<div class="container people">
+  <h1>Unsere Kandidatinnen und Kandidaten</h1>
+  <p>Die KandidatInnen und Kandidaten der Liste Pilz sind unser Programm. Ihre Themen und Ziele definieren wofür wir stehen und Ihre Erfahrung und Fähigkeiten machen wir zum Zentrum unseres Programms und unserer Politik.</p>
+  <div class="row">
+    {{ range (.Data.Pages.ByParam "nachname")}}
+    <div class="col-xs-12 col-md-6 mb-3">
+      <a href="/personen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
+          </div>
+          <div class="col-xs-12 col-md-8 pl-0">
+            <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title .Params.nachname }}</strong></h2>
+            <ul class="themen">
+              {{ range .Params.themen }}
+              <li>{{ title . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+  {{ if (eq .Data.Term "spitze") }}
+  <div class="row">
+    <div class="col-xs-12 col-md-6 mb-3">
+      <h2>Bundesländer</h2>
+      <a href="/listen/oberoesterreich">
+        <h3>Oberösterreich</h3>
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+            <img src="/assets/images/groups/large/oberoesterreich.jpg">
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ partial "foot" . }}

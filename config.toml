@@ -1,7 +1,6 @@
 baseURL = "https://listepilz.at/"
 languageCode = "de_DE"
 title = "Liste Pilz. Ja es geht!"
-disableKinds = ["taxonomy","taxonomyTerm"]
 GoogleAnalytics = "UA-103577542-1"
 
 [[menu.footer]]
@@ -15,3 +14,6 @@ GoogleAnalytics = "UA-103577542-1"
     weight = -100
     identifier = "presse"
     url = "/presse/index.html"
+
+[taxonomies]
+    liste = "listen"
