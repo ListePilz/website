@@ -2,19 +2,19 @@
 title = "Presse"
 +++
 
-## Kontakt
+Presse und Kommunikation</br>
+Dr. Christian Minutilli</br>
+`+43 699 10385152`</br>
+[christian.minutilli@listepilz.at](mailto:christian.minutilli@listepilz.at)</br>
 
-Für Presse Anfragen bitte ein Email an [presse@listepilz.at](mailto:presse@listepilz.at)
+## Pressemeldungen
 
-## Pressekonferenzen
+[OTS Pressemappe](https://www.ots.at/pressemappe/30338/liste-pilz)
 
-* [Vorstellung von Prof. Schroeder und Prof. Werthner](https://www.facebook.com/listepilz.at/videos/839855399506540/)
+## Presseservices
 
-## Interviews
+* [Logo in verschiedensten Formaten](/assets/logopack/Logos.zip)
+* [Presse, KandidatInnnen und Event Foto Archiv](https://www.flickr.com/photos/listepilz/albums)
 
-* [Sommergespräch auf Puls4](http://www.puls4.com/pro-und-contra/videos/PULS-4-Sommergespraeche/PULS-4-Sommergespraech-mit-Peter-Pilz)
-
-## Pressepaket
-
-* [Logo in hoher Auflösung](/assets/images/listepilz_logo_large.png)
-* [Presse, KandidatInnnen und Event Fotos](https://www.flickr.com/photos/listepilz/albums)
+### Copyright Hinweis
+Die Fotos dürfen nur im unbearbeiteten Zustand verwendet werden, jegliche technische Bearbeitung ist nicht erlaubt und zustimmungspflichtig. Diese Fotos sind urheberrechtlich geschützt, jegliche Nutzung ist kostenpflichtig. ***Ausnahme***: Für private und journalistische Zwecke ist - ausnahmslos unter der Angabe des Urheberrechtvermerkes ("Copyright: Liste Pilz, Foto: Vorname Nachname“) - die Nutzung im Zuge der Berichterstattung über die Liste Pilz honorarfrei erlaubt. Jede weitere Nutzung (beispielsweise für Werbung, etc.) erfordert das schriftliche Einverständnis der Liste Pilz und ist kostenpflichtig.
