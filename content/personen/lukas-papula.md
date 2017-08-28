@@ -8,6 +8,7 @@ ziele:
   - Gesetzliche Pflichtvertretung der ArbeitnehmerInnenvertretung (Betriebsrat) in Aufsichtsräten von Kapitalgesellschaften
   - Förderung von Modellen zur Mitarbeiterbeteiligung an Unternehmen
 listen: [oberoesterreich]
+copyright: Bianca Traxler
 ---
 
 Ich heiße Lukas Papula, bin 30 Jahre alt, in Linz geboren und dort auch aufgewachsen. Nach meiner Schulzeit habe ich den Zivilersatzdienst am historischen Forschungsinstitut in Prag geleistet.

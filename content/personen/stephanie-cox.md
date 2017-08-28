@@ -11,6 +11,7 @@ ziele:
   - Teilhabe und Handlungsmöglichkeiten von Jugendlichen auf digitaler Ebene umfassend zu stärken und zu sensibilisieren
   - Sichtbarmachen und stärken des zivilgesellschaftlichen Engagements
 listen: [spitze]
+copyright: Hans Ebner/ Studio 46
 ---
 
 1989 in Sydney, Australien, geboren, lebt seit ihrer Kindheit in Österreich

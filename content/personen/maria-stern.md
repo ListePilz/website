@@ -11,6 +11,7 @@ ziele:
   - 'Umfassende Prävention von häuslicher Gewalt'
 listen: [spitze]
 website: 'http://www.mariastern.at'
+copyright: Hans Ebner/ Studio 46
 ---
 
 1972 in Berlin geboren, lebt seit ihrer Kindheit in Österreich, verbrachte drei Jahre in den Niederlanden und viel Zeit in Serbien.

@@ -11,6 +11,7 @@ ziele:
   - ein eigenständiges Haus der Kulturen als Bundesmuseum durchsetzen
 listen: [spitze]
 website: www.wolfgang.zinggl.at
+copyright: Hans Ebner/ Studio 46
 ---
 
 Dr. Wolfgang Zinggl (62) ist seit 13 Jahren im Nationalrat. Bis zu seinem Wechsel zur Liste Pilz war er Kultursprecher der Grünen und davor österreichischer Bundeskunstkurator. Er hat Kunst und Psychologie studiert und ist seit 1993 Mitglied der Gruppe [WochenKlausur](www.wochenklausur.at)

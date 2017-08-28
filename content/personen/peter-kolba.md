@@ -10,6 +10,7 @@ ziele:
   - „Unrecht darf sich nicht lohnen!“ – Effiziente Sammelklagen und Sammelvergleiche bei Massenschäden, Abschöpfung des Unrechtsgewinnes.
   - „Cannabis in der Medizin – jetzt!“ – Betagte Schmerzpatienten sollen nicht noch Jahre auf eine liberalisierte Anwendung von Cannabis gegen ihre Schmerzen und Muskelkrämpfe (MS) warten müssen.
 listen: [spitze]
+copyright: Hans Ebner/ Studio 46
 ---
 
 Dr. Peter Kolba (58), geboren in Wien, ist Jurist und war 26 Jahre Leiter des Vereines für Konsumenteninformation (VKI). Nun ist er als Autor im Verbraucherschutz tätig ([„Davids gegen Goliath – Der VW-Skandal und die Möglichkeit von Sammelklagen“](www.davids-gegen-goliath.at) ). Er ist Schmerzpatient (Polyneuropathie) und hat daher Erfahrungen mit [Cannabis-Medizin](www.himko.at).

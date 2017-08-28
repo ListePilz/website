@@ -12,6 +12,7 @@ ziele:
   - Erhöhung der Hochschulquote auf 2.0% des BIP (wie seit Jahren versprochen)
   - Exzellenz Initiative für Universitäten ähnlich des deutschen Modells
 listen: [spitze]
+copyright: Bianca Traxler
 ---
 
 Geboren 1954 im Südburgenland, Studium der Informatik an der TU Wien, in den 70er Jahren aktiv in der Studenten- und Anti AKW Bewegung, daneben hoffnungsvoller, aber letztendlich erfolgloser Fußballer. Danach mehrere langjährige wissenschaftliche Auslandsaufenthalte, jetzt Professor für e-commerce an der Fakultät für Informatik TU Wien, und gleichzeitig Dekan der Fakultät.

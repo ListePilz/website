@@ -5,6 +5,7 @@ themen:
   - Zeitgemäße Kulturpolitik
   - Neue Arbeit
 listen: [oberoesterreich]
+copyright: Bianca Traxler
 ---
 
 Mein Name ist Clara Gallistl (Mag.a). Seit 10 Jahren bin ich im Kunst- und Kulturbereich tätig. Erste Erfahrungen in diesem Bereich konnte ich schon während des Germanistik-Studiums als Dramaturgieassistentin am Wiener Burgtheater sammeln. Nach der Auszeichnung mit dem Startstipendium für Kulturmanagement wurde ich 2016 für einen Dramatiker_innenpreis nominiert und gewann 2017 den Publikumspreis für mein Stück „Gold Schlamm Entertainment“. Mein Stück „Süße Wiener Dunkelheit“ wird derzeit von der Klimt Foundation in Seewalchen am Attersee gezeigt.

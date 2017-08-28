@@ -11,6 +11,7 @@ ziele:
   - dass die Hochschulquote schnell auf 2 % des BIP erhöht wird;
   - dass sämtliche Kompetenzen von Wissenschaft und Forschung in einem eigenständigen Wissenschaftsministerium zusammengefasst werden.
 listen: [spitze]
+copyright: Bianca Traxler
 ---
 
 Geboren 1953 in Joao Monlevade, Brasilien.

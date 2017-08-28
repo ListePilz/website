@@ -13,6 +13,7 @@ facebook: sebastianbohrnmena
 twitter: sbohrnmena
 website: http://www.bohrn-mena.at
 listen: [spitze]
+copyright: Hans Ebner/ Studio 46
 ---
 
 Dr. Sebastian Bohrn Mena (32) wurde als Nachkomme von chilenischen Flüchtlingen in Wien geboren. Der gelernte Buchhändler, studierte Ökonom und Integrationsforscher lebt mit seiner Frau und seinem Sohn in Wien, wo er nach beruflichen Stationen in der universitären und außeruniversitären Forschung aktuell in der Volksbildung tätig ist.

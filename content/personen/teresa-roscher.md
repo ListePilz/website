@@ -9,6 +9,7 @@ ziele:
   - Pflege und Betreuung betreffen auch das Gesundheitssystem
   - Palliativ Care als Grundbestandteil der PA-Ausbildung
 listen: [spitze]
+copyright: Bianca Traxler
 ---
 
 ist Pflegeassistentin, Autorin und werdende Mutter.
