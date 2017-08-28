@@ -1,6 +1,6 @@
 ---
 vorname: sebastian
-nachname: bohrn-mena
+nachname: bohrn mena
 themen:
   - Menschenrechte
   - Bildung
