@@ -8,7 +8,7 @@ themen:
 ziele:
   - 'ArbeitnehmerInnenrechte stärken, Ausbeutung bekämpfen und Eindämmung prekärer Arbeitsverhältnisse'
   - 'Familienzeit unterstützen. Verbesserung von Kinderschutzgesetzen (Vorbild OÖ: maximale Dauer externer Betreuung bei 8h täglich festlegen)'
-  - 'Parlamentarismusreform. Das Parlament vom Gesetznehmer wieder zum Gesetzgeber machen und damit Kopf auf die Füße stellen'
+  - 'Parlamentarismusreform. Das Parlament vom Gesetznehmer wieder zum Gesetzgeber machen und damit vom Kopf auf die Füße stellen'
 facebook: daniela.holzinger.3
 website: http://www.daniela-holzinger.at/
 twitter: HolzingerDan
