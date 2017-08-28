@@ -3,17 +3,24 @@ languageCode = "de_DE"
 title = "Liste Pilz. Ja es geht!"
 GoogleAnalytics = "UA-103577542-1"
 
+
 [[menu.footer]]
-    name = "Impressum"
-    weight = -110
-    identifier = "impressum"
-    url = "/impressum/index.html"
+    name = "Kontakt"
+    weight = -3
+    identifier = "kontakt"
+    url = "/kontakt"
 
 [[menu.footer]]
     name = "Presse"
-    weight = -100
+    weight = -2
     identifier = "presse"
-    url = "/presse/index.html"
+    url = "/presse"
+
+[[menu.footer]]
+    name = "Impressum"
+    weight = -1
+    identifier = "impressum"
+    url = "/impressum"
 
 [taxonomies]
     liste = "listen"

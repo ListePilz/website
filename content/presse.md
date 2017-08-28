@@ -1,11 +1,13 @@
 +++
-title = "Presse"
+title = "Medienanfragen"
 +++
 
 Presse und Kommunikation</br>
 Dr. Christian Minutilli</br>
 `+43 699 10385152`</br>
 [christian.minutilli@listepilz.at](mailto:christian.minutilli@listepilz.at)</br>
+
+Für allgemeine Anfragen bitte [die Kontakt Seite](/kontakt) beachten.
 
 ## Pressemeldungen
 
