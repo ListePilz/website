@@ -32,6 +32,8 @@ Neben der Stärkung und dem Sichtbar Machen von zivilgesellschaftlichem Engageme
 * Für SozialunternehmerInnen eine Erleichterung von Investitionen durch Verbesserung des Gemeinnützigkeits- und Stiftungsrechts, sowie Etablierung einer eigenen Rechtsform für Social Businesses.
 * Die Forderung nach einer weiteren Senkung der Lohnnebenkosten ist für alle Bereiche des Unternehmertuns eine wesentliche Frage. Weitere spezielle Lösungen für die ersten Unternehmensjahre, wie es bereits erste Ansätze gibt sind hier das Mindeste, eine Senkung der Lohnnebenkosten und der Steuern auf Arbeit im Allgemeinen muss langfristig das Ziel sein.
 
+Um das Thema Digitalisierung als zentrales Zukunftsanliegen zu verankern, sollte ein eigener Ausschuss im Parlament eingerichtet bzw ein Ministerium für Digitalisierung & Innovation geschaffen werden. Es ist nicht einzusehen, warum Österreich als eines der reichsten Länder der Welt in diesem Bereich nicht Weltspitze werden kann.
+
 Meinen zweiter Schwerpunkt werde ich auf die Jugend setzen. Ich bin überzeugt, dass in einer zunehmen digital geprägten Gesellschaft die Teilhabe und Handlungsmöglichkeiten von Jugendlichen umfassend zu stärken und zu sensibilisieren gilt. Des Weiteren muss es eine Förderung der Kultur der Mündigkeit, Eigenverantwortung und Solidarität für unsere Jugend geben.
 
 * Durch einen “Das-Digitale-Ich” Check eine praxisorientierte Förderung eines reflektierten und verantwortungsvollen Gebrauchs der Technologien (Medienbildung & Datenschutz) bereits in der Volksschule. Zusätzlich ein passendes Angebot für Lehrkräfte und Erwachsene zur Stärkung ihrer Medienkompetenz. 
