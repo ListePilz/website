@@ -14,7 +14,6 @@ body h2 {
 body h3 {
   font-size: 18px;
   font-weight: normal;
-  margin-top: 2em;
   /*margin: 0;*/
 }
 
@@ -83,4 +82,23 @@ body h3 {
 
 .themen, .listen{
   padding-left:1em;
+}
+
+.hp-themen div{
+  border: 1px solid grey;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 0.5em;
+}
+
+.hp-themen p {
+  margin-bottom: 0.5em;
+}
+
+.hp-themen h2 i {
+  margin-right: 0.5em;
+}
+
+.hp-themen h3{
+  margin-top: 1em;
 }
