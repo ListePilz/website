@@ -3,6 +3,32 @@ languageCode = "de_DE"
 title = "Liste Pilz. Ja es geht!"
 GoogleAnalytics = "UA-103577542-1"
 
+[[menu.main]]
+    name = "Programm"
+    weight = -110
+    identifier = "programm"
+    url = "/programm/"
+
+[[menu.main]]
+    name = "Personen"
+    weight = -100
+    identifier = "personen"
+    url = "/listen/spitze/"
+
+[[menu.main]]
+    name = ""
+    pre = '<i class="fa fa-facebook-official" alt="Facebook Link" class="d-inline-block align-top"></i>'
+    weight = -90
+    identifier = "facebook"
+    url = "https://www.facebook.com/listepilz.at/"
+
+[[menu.main]]
+    name = ""
+    pre = '<i class="fa fa-twitter" alt="Twitter Link" class="d-inline-block align-top"></i>'
+    weight = -80
+    identifier = "twitter"
+    url = "https://twitter.com/peter_pilz"
+
 
 [[menu.footer]]
     name = "Kontakt"
