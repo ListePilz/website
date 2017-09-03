@@ -21,16 +21,13 @@ body h3 {
   margin-top: 1em;
 }
 
-.navbar {
+.navbar a{
   font-size:24px;
-}
-
-.social-icons a {
   color: black;
   text-decoration: none;
 }
 
-.social-icons a:hover{
+.navbar a:hover{
   color: grey;
 }
 
