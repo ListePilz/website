@@ -1,4 +1,5 @@
 ---
+draft: true
 vorname: heinz
 nachname: prochazka
 themen:

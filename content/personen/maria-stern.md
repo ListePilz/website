@@ -9,7 +9,7 @@ themen:
 ziele:
   - 'Einführung der Kindesunterhaltssicherung im Rahmen der Modernisierung des Unterhaltsgesetzes'
   - 'Umfassende Prävention von häuslicher Gewalt'
-listen: [spitze]
+listen: [spitze, niederoesterreich]
 website: 'http://www.mariastern.at'
 copyright: Hans Ebner/ Studio 46
 ---

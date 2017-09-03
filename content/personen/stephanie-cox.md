@@ -10,7 +10,7 @@ ziele:
   - Förderung von lösungsorientiertem Denken im Bildungssystem
   - Teilhabe und Handlungsmöglichkeiten von Jugendlichen auf digitaler Ebene umfassend zu stärken und zu sensibilisieren
   - Sichtbarmachen und stärken des zivilgesellschaftlichen Engagements
-listen: [spitze]
+listen: [spitze, wien]
 copyright: Hans Ebner/ Studio 46
 ---
 

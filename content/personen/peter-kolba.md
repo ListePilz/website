@@ -9,7 +9,7 @@ ziele:
   - „Parlament transparent!“ – Berichte über diskutierte Probleme und Lösungen transparent in „leichter Sprache“ öffentlich darstellen
   - „Unrecht darf sich nicht lohnen!“ – Effiziente Sammelklagen und Sammelvergleiche bei Massenschäden, Abschöpfung des Unrechtsgewinnes.
   - „Cannabis in der Medizin – jetzt!“ – Betagte Schmerzpatienten sollen nicht noch Jahre auf eine liberalisierte Anwendung von Cannabis gegen ihre Schmerzen und Muskelkrämpfe (MS) warten müssen.
-listen: [spitze]
+listen: [spitze, niederoesterreich]
 copyright: Hans Ebner/ Studio 46
 ---
 
