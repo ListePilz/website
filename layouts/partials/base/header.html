@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-light sticky-top text-dark bg-white mb-3">
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top text-dark mb-3">
   <div class="container">
     <a class="navbar-brand" href="/">
       <img src="/assets/images/listepilz_logo_header.png" alt="Liste Pilz Logo">
@@ -11,7 +11,7 @@
       <ul class="navbar-nav ml-auto">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          <li class="nav-item"><a class="nav-link" href="{{.URL}}">{{ .Pre }}{{.Name}}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{.URL}}">{{ .Pre }}{{.Name}}</a></li>
         {{ end }}
       </ul>
     </div>
