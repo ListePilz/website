@@ -9,7 +9,8 @@ ziele:
   - 'Ich will, dass Sprachförderung insbesondere für Kinder und Jugendliche umfassend ausgebaut wird und zusätzlich 2000 speziell ausgebildete Lehrkräfte mit Schwerpunkt Integration zur Verfügung gestellt werden'
   - 'Ich will, dass Schlüsselbereiche (z.B. Sicherheitsbehörden wie die Polizei) verstärkt zur Integration genutzt werden durch gezielte Aufnahme von Polizeischülerinnen und -schüler mit Einwanderungshintergrund'
   - 'In unserer Liste werden die Bereiche „Integration“ und „Sicherheitspolitik“ eng zusammenarbeiten, um die Integration nicht durch politischen und religiösen Extremismus zu gefährden'
-listen: [spitze]
+listen: [wien]
+spitze: true
 copyright: Bianca Traxler
 ---
 

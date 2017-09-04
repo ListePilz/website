@@ -12,7 +12,8 @@ ziele:
 facebook: sebastianbohrnmena
 twitter: sbohrnmena
 website: http://www.bohrn-mena.at
-listen: [spitze, wien]
+listen: [wien]
+spitze: true
 copyright: Hans Ebner/ Studio 46
 ---
 

@@ -10,7 +10,8 @@ ziele:
   - deutliche Senkung der Steuern und Sozialversicherungsbeiträge auf Arbeit
   - die 10 Prozent höchsten Vermögen im Land höher besteuern
   - Steuerdumping und Steuerflucht von Großkonzernen beenden
-listen: [spitze]
+listen: [kaernten]
+spitze: true
 copyright: Hans Ebner/ Studio 46
 ---
 

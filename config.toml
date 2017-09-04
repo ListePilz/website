@@ -19,7 +19,7 @@ GoogleAnalytics = "UA-103577542-1"
     name = "Personen"
     weight = -100
     identifier = "personen"
-    url = "/listen/spitze/"
+    url = "/liste"
 
 [[menu.main]]
     name = ""

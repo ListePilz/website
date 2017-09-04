@@ -9,7 +9,8 @@ ziele:
   - mit zahlreichen Kulturinitiativen Bauspekulation verhindern
   - freien Eintritt in die Museen erkämpfen. Wir zahlen sie ohnehin
   - ein eigenständiges Haus der Kulturen als Bundesmuseum durchsetzen
-listen: [spitze]
+listen: [wien]
+spitze: true
 website: www.wolfgang.zinggl.at
 copyright: Hans Ebner/ Studio 46
 ---

@@ -11,7 +11,8 @@ ziele:
   - Bedeutung der Grundlagenforschung und Verbindung zu Innovation hervorheben und fördern
   - Erhöhung der Hochschulquote auf 2.0% des BIP (wie seit Jahren versprochen)
   - Exzellenz Initiative für Universitäten ähnlich des deutschen Modells
-listen: [spitze]
+listen: [burgenland]
+spitze: true
 copyright: Bianca Traxler
 ---
 

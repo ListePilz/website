@@ -12,7 +12,8 @@ ziele:
 facebook: daniela.holzinger.3
 website: http://www.daniela-holzinger.at/
 twitter: HolzingerDan
-listen: [spitze, oberoesterreich]
+listen: [oberoesterreich]
+spitze: true
 copyright: Hans Ebner/ Studio 46
 ---
 
