@@ -4,23 +4,7 @@
   <p>Die Leute haben recht. Sie wollen etwas Neues, weil das Alte versagt hat. Und sie wollen, dass endlich wieder ihre Interessen vertreten werden. Daher treten wir an. Wir sind keine Partei wie die anderen. Bei uns wird es keinen Klubzwang und kein Parteiprogramm geben. <a href="/programm">Unsere Kandidatinnen und Kandidaten sind unsere Programme.</a></p>
   <div class="row">
     {{ range (.Data.Pages.ByParam "nachname")}}
-    <div class="col-xs-12 col-md-6 mb-3">
-      <a href="/personen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
-        <div class="row">
-          <div class="col-xs-12 col-md-4">
-            <img src="/assets/images/portraits/medium/{{ .Params.nachname }}.jpg">
-          </div>
-          <div class="col-xs-12 col-md-8 pl-0">
-            <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title (replace .Params.nachname "-" " ") }}</strong></h2>
-            <ul class="themen">
-              {{ range .Params.themen }}
-              <li>{{ title . }}</li>
-              {{ end }}
-            </ul>
-          </div>
-        </div>
-      </a>
-    </div>
+      {{ partial "content/person" . }}
     {{ end }}
 
   </div>
