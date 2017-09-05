@@ -1,17 +1,19 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top text-dark mb-3 px-lg-5">
-  <a class="navbar-brand" href="/">
-    <img src="/assets/images/listepilz_logo_header.png" alt="Liste Pilz Logo">
-    Liste Pilz
-  </a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav ml-auto">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
-      <li class="nav-item"><a class="nav-link" href="{{.URL}}">{{ .Pre }}{{.Name}}</a></li>
-      {{ end }}
-    </ul>
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="/assets/images/listepilz_logo_header.png" alt="Liste Pilz Logo">
+      Liste Pilz
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li class="nav-item"><a class="nav-link" href="{{.URL}}">{{ .Pre }}{{.Name}}</a></li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 </nav>

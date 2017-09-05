@@ -12,7 +12,7 @@ Das ist unser Programm für unsere Heimat Österreich. Aber warum muss es dazu e
 
 Die Leute haben recht. Sie wollen etwas Neues, weil das Alte versagt hat. Und sie wollen, dass endlich wieder ihre Interessen vertreten werden. Daher treten wir an.
 
-Wir sind keine Partei wie die anderen. Bei uns wird es keinen Klubzwang und kein Parteiprogramm geben. [Unsere Kandidaten sind unsere Programme.](/listen/spitze)
+Wir sind keine Partei wie die anderen. Bei uns wird es keinen Klubzwang und kein Parteiprogramm geben. [Unsere Kandidaten sind unsere Programme.](/liste)
 
 Wir versprechen nur das, was wir halten können: konkrete Reformen, die Österreich in den nächsten fünf Jahren besser machen sollen.
 

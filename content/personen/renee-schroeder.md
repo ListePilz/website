@@ -4,7 +4,6 @@ nachname: schroeder
 themen:
   - Wissenschaft
   - Universitäten
-  - Wissenschaftskommunikation
 ziele:
   - dass die Mittel für den FWF und damit für die Grundlagenforschung von rund 200 auf 400 Mio € pro Jahr verdoppelt werden;
   - dass der FWF „Overheadkosten“ in der Höhe von durchschnittlich 25 % an die Universitäten zahlen kann, damit diese sich Forschung auch leisten können.
