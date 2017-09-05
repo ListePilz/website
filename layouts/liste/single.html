@@ -1,6 +1,6 @@
 {{ partial "head" . }}
 <div class="container people">
-  <h1>Unsere Spitzenkandidatinnen und Kandidaten</h1>
+  <h1>Die Liste Pilz im Parlament</h1>
   <p>Die Leute haben recht. Sie wollen etwas Neues, weil das Alte versagt hat. Und sie wollen, dass endlich wieder ihre Interessen vertreten werden. Daher treten wir an. Wir sind keine Partei wie die anderen. Bei uns wird es keinen Klubzwang und kein Parteiprogramm geben. <a href="/programm">Unsere Kandidatinnen und Kandidaten sind unsere Programme.</a></p>
   <div class="row">
     {{ range (where (where .Site.Pages "Section" "personen") ".Params.spitze" "==" true).ByParam "nachname" }}

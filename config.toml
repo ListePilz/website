@@ -4,7 +4,7 @@ title = "Liste Pilz. Ja es geht!"
 GoogleAnalytics = "UA-103577542-1"
 
 [[menu.main]]
-    name = "Am Laufenden bleiben"
+    name = "Newsletter"
     weight = -110
     identifier = "newsletter"
     url = "#newsletter"
