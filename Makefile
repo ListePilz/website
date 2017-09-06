@@ -27,7 +27,7 @@ update: deploy deploy-wip deploy-secret
 resize-images:
 	imagemagick mogrify -resize 100 -path static/assets/images/portraits/small/ static/assets/images/portraits/original/*.jpg
 	imagemagick mogrify -resize 150 -path static/assets/images/portraits/medium/ static/assets/images/portraits/original/*.jpg
-	imagemagick mogrify -resize 300 -path static/assets/images/portraits/large/ static/assets/images/portraits/original/*.jpg
+	imagemagick mogrify -resize 500 -path static/assets/images/portraits/large/ static/assets/images/portraits/original/*.jpg
 	imagemagick mogrify -resize 100 -path static/assets/images/groups/small/ static/assets/images/groups/original/*.jpg
 	imagemagick mogrify -resize 150 -path static/assets/images/groups/medium/ static/assets/images/groups/original/*.jpg
-	imagemagick mogrify -resize 300 -path static/assets/images/groups/large/ static/assets/images/groups/original/*.jpg
+	imagemagick mogrify -resize 500 -path static/assets/images/groups/large/ static/assets/images/groups/original/*.jpg

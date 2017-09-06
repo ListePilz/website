@@ -1,8 +1,8 @@
-<div class="col-xs-12 col-xl-6 mb-3">
+<div class="col-xs-12 col-lg-6 mb-3">
   <a href="/personen/{{ .Params.vorname  }}-{{ .Params.nachname  }}">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-lg-6">
-        <img src="/assets/images/portraits/original/{{ .Params.nachname }}.jpg" class="img-fluid">
+        <img src="/assets/images/portraits/large/{{ .Params.nachname }}.jpg" class="img-fluid">
       </div>
       <div class="col-xs-12 col-sm-6 col-lg-6">
         <h2>{{ title .Params.vorname }} <strong class="lastname">{{ title (replace .Params.nachname "-" " ") }}</strong></h2>
