@@ -7,12 +7,14 @@ body {
 
 body h2 {
   font-size: 20px;
-  font-weight: normal;
 }
 
 body h3 {
   font-size: 18px;
-  font-weight: normal;
+}
+
+body h4 {
+  font-size: 16px;
 }
 
 .navbar-light .navbar-nav .nav-item .nav-link{
