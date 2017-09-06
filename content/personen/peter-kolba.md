@@ -14,7 +14,7 @@ spitze: true
 copyright: Hans Ebner/ Studio 46
 ---
 
-Dr. Peter Kolba (58), geboren in Wien, ist Jurist und war 26 Jahre Leiter des Vereines für Konsumenteninformation (VKI). Nun ist er als Autor im Verbraucherschutz tätig ([„Davids gegen Goliath – Der VW-Skandal und die Möglichkeit von Sammelklagen“](www.davids-gegen-goliath.at) ). Er ist Schmerzpatient (Polyneuropathie) und hat daher Erfahrungen mit [Cannabis-Medizin](www.himko.at).
+Dr. Peter Kolba (58), geboren in Wien, ist Jurist und war 26 Jahre Leiter des Vereines für Konsumenteninformation (VKI). Nun ist er als Autor im Verbraucherschutz tätig ([„Davids gegen Goliath – Der VW-Skandal und die Möglichkeit von Sammelklagen“](http://www.davids-gegen-goliath.at) ). Er ist Schmerzpatient (Polyneuropathie) und hat daher Erfahrungen mit [Cannabis-Medizin](http://www.himko.at).
 
 ## Warum Liste Pilz?
 
