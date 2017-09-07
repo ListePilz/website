@@ -1,11 +1,5 @@
 {{ partial "head" . }}
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12 col-md-12">
-      {{ .Render "single.head" }}
-      {{ .Render "single.content" }}
-      {{ .Render "single.footer" }}
-    </div>
-  </div>
-</div>
+{{ .Render "single.head" }}
+{{ .Render "single.content" }}
+{{ .Render "single.footer" }}
 {{ partial "foot" . }}
