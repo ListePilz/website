@@ -35,6 +35,4 @@ Neben der Stärkung und dem Sichtbar Machen von zivilgesellschaftlichem Engageme
 
 Meinen zweiten Schwerpunkt werde ich auf die Jugend setzen. Ich bin überzeugt, dass es in einer zunehmend digital geprägten Gesellschaft die Teilhabe und Handlungsmöglichkeiten von Jugendlichen umfassend zu stärken und zu sensibilisieren gilt. Des Weiteren muss es eine Förderung der Kultur der Mündigkeit, Eigenverantwortung und Solidarität für unsere Jugend geben.
 
-* Durch einen “Das-Digitale-Ich” Check eine praxisorientierte Förderung eines reflektierten und verantwortungsvollen Gebrauchs der Technologien (Medienbildung & Datenschutz) bereits in der Volksschule. Zusätzlich ein passendes Angebot für Lehrkräfte und Erwachsene zur Stärkung ihrer Medienkompetenz.
-
 * Bereits in der Volksschule sollen Elemente zur Förderung einer Kultur der Mündigkeit, Eigenverantwortung und Solidarität implementiert werden. Anhand praktischer Projekte sollen gesellschaftliche Herausforderungen skizziert und Lösungsorientierung durch das Erarbeiten von praktischen Ansätzen gefördert werden. Themen wie die Verschwendung von Lebensmitteln, Klimawandel oder Migration sollen möglichst früh verstanden und mit unternehmerischem Denken und Handeln verknüpft werden.
